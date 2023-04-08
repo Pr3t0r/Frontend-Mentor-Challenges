@@ -13,5 +13,5 @@ This repository contains the finihsed challenges from [Frontend Mentor](https://
 
 | Snapshot | Repo | Live | Challenge |
 |---|---|---|---|
-|![thumbnail](https://github.com/Pr3t0r/qr-code-component-main/blob/main/screenshots/thumbnail.png)|[qr-code-component-main](https://github.com/Pr3t0r/qr-code-component-main) | [live_link](https://pr3t0r.github.io/qr-code-component-main/)| [challenge_link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)|
+|![thumbnail](https://github.com/Pr3t0r/qr-code-component-main/blob/main/screenshots/thumbnail.png)|[qr-code-component-main](https://github.com/Pr3t0r/qr-code-component-main) | [live link](https://pr3t0r.github.io/qr-code-component-main/)| [challenge link](https://www.frontendmentor.io/solutions/basic-techniques-as-possible-bYWbOrkTZO)|
 
