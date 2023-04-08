@@ -2,14 +2,14 @@
 This repository contains the finihsed challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges). 
 
 ## Jump to<br>
-🟢 [#Newbie - 9](#newbie)<br>
-🔵 Junior<br>
+🔵 [#Newbie - 9](#newbie)<br>
+🟢 Junior<br>
 🟡 Intermediate<br>
 🟠 Advanced<br>
 🔴 Guru<br>
 
 ---
-### 🟢Newbie
+### 🔵Newbie
 
 | Snapshot | Repo | Live | Challenge |
 |:---:|:---:|---|---|
