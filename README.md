@@ -1,5 +1,5 @@
 # Frontend Mentor Challenges
-This repository contains the finihsed challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges). 
+This repository contains the finished challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges). 
 
 ## Jump to<br>
 🔵 [#Newbie - 9](#newbie)<br>
@@ -13,7 +13,7 @@ This repository contains the finihsed challenges from [Frontend Mentor](https://
 
 | Snapshot | Repo | Live | Challenge |
 |:---:|:---:|---|---|
-|![thumbnail](https://github.com/Pr3t0r/qr-code-component-main/blob/main/screenshots/thumbnail.png)|[qr-code-component-main](https://github.com/Pr3t0r/qr-code-component-main) | [live](https://pr3t0r.github.io/qr-code-component-main/)| [challenge](https://www.frontendmentor.io/solutions/basic-techniques-as-possible-bYWbOrkTZO)|
+|[![thumbnail](https://github.com/Pr3t0r/qr-code-component-main/blob/main/screenshots/thumbnail.png)](https://github.com/Pr3t0r/qr-code-component-main/)|[qr-code-component-main](https://github.com/Pr3t0r/qr-code-component-main) | [live](https://pr3t0r.github.io/qr-code-component-main/)| [challenge](https://www.frontendmentor.io/solutions/basic-techniques-as-possible-bYWbOrkTZO)|
 |![thumbnail](https://github.com/Pr3t0r/results-summary-component-main/blob/main/screenshots/thumbnail.png)|[results-summary-component-main](https://github.com/Pr3t0r/results-summary-component-main) | [live](https://pr3t0r.github.io/results-summary-component-main/)| [challenge](https://www.frontendmentor.io/solutions/css-custom-properties-without-framewrok-2iaJcs9UPG)|
 |![thumbnail](https://github.com/Pr3t0r/product-preview-card-component-main/blob/main/screenshots/thumbnail.png)|[product-preview-card-component-main](https://github.com/Pr3t0r/product-preview-card-component-main) | [live](https://pr3t0r.github.io/product-preview-card-component-main/)| [challenge](https://www.frontendmentor.io/solutions/created-with-flexbox-and-media-queries-nWhtTWFNoD)|
 |![thumbnail](https://github.com/Pr3t0r/nft-preview-card-component-main/blob/main/screenshots/thumbnail.png)|[nft-preview-card-component-main](https://github.com/Pr3t0r/nft-preview-card-component-main) | [live](https://pr3t0r.github.io/nft-preview-card-component-main/)| [challenge](https://www.frontendmentor.io/solutions/flexbox-boxshadow-pseudo-without-exact-measure-data-gPCabxyp8p)|
